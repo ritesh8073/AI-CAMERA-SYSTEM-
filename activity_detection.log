@@ -1,0 +1,1759 @@
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+ERROR:root:Error sending message: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+ERROR:root:Error sending message: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+ERROR:root:Error sending message with photo: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN/sendPhoto
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:32:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:32:19] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:32:19] "[33mGET /static/static/images/surveillance.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:32:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:32:39] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:32:39] "[33mGET /static/static/images/surveillance.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:32:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:32:45] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:32:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:32:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:35:24] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:35:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:35:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:38:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:38:37] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:38:37] "[33mGET /static/static/images/surveillance.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:38:50] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:38:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:38:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:38:50] "[33mGET /static/static/images/surveillance.png HTTP/1.1[0m" 404 -
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:39:18] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:39:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:39:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:39:18] "[33mGET /static/static/images/surveillance.png HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ritur\\Desktop\\face\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:41:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:41:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:41:30] "[33mGET /static/static/images/surveillance.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:41:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:41:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:41:40] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:41:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:41:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:42:04] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:42:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:42:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ritur\\Desktop\\face\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug: * Detected change in 'C:\\Users\\ritur\\Desktop\\face\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:44:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:44:08] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:44:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:44:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:44:09] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:44:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:44:16] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:44:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:44:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:44:16] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:44:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:44:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:44:29] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:44:33] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:44:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:44:33] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:44:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:46:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:46:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:46:11] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:46:17] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:46:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:46:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:46:17] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:46:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:46:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:46:33] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:46:33] "GET / HTTP/1.1" 200 -
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:46:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:46:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:46:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:46:35] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:46:36] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:47:21] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:47:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:47:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:47:21] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:47:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:47:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:47:32] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:47:32] "GET / HTTP/1.1" 200 -
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:47:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:47:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:47:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:47:34] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:47:34] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:52:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:52:03] "[33mGET /static/your_background_image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:52:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:52:14] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:52:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:52:14] "[33mGET /static/your_background_image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:52:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:52:29] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:52:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:52:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:52:29] "[33mGET /static/your_background_image.jpg HTTP/1.1[0m" 404 -
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:57:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:57:56] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:57:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:57:58] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:57:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:57:59] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:58:05] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:58:05] "GET /stop HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:58:05] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+INFO:root:Message with photo sent successfully.
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:58:15] "[32mPOST /stop HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:58:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:58:15] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug: * Detected change in 'C:\\Users\\ritur\\Desktop\\face\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:59:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:59:46] "[33mGET /static/your_background_image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 14:59:47] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:03:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:03:54] "[33mGET /static/your_background_image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:03:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:03:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:03:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:03:55] "[33mGET /static/your_background_image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:04:02] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:04:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:04:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:04:02] "[33mGET /static/your_background_image.jpg HTTP/1.1[0m" 404 -
+INFO:root:Message with photo sent successfully.
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:04:12] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:04:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:04:12] "[33mGET /static/your_background_image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:04:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:09:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:09:38] "GET /static/s.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:09:38] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:09:48] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:09:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:09:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:09:48] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:10:00] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:10:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:10:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 15:10:00] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message sent successfully.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:13:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:13:24] "[33mGET /static/your_background_image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:13:24] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:13:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:14:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:14:05] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:14:05] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:15:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:15:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:15:48] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:17:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:17:27] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:17:27] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:18:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:18:18] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:18:18] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:18:33] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:18:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:18:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:18:34] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:18:36] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:18:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:18:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 16:18:36] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:38:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:38:13] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:38:13] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:38:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:39:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:39:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:39:24] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:40:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:40:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:40:10] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:40:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:40:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:40:12] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:40:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:40:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:40:58] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:41:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:41:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:41:33] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:41:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:41:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:41:35] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:41:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:41:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:41:47] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:41:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:41:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:41:48] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:43:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:43:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:43:01] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:43:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:43:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:43:24] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:45:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:45:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:45:15] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:45:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:45:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 17:45:50] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 18:06:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 18:06:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 18:06:31] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 18:06:39] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 18:06:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 18:06:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 18:06:39] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 18:07:02] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 18:07:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 18:07:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 18:07:02] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 18:09:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 18:09:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 18:09:17] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 22:00:58] "[33mGET /fronend/index.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 22:00:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 22:01:01] "[33mGET /fronend/index.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 22:01:03] "[33mGET /fronend/index.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 22:07:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 22:07:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 22:07:23] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 22:07:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ritur\\Desktop\\face\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 22:08:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 22:08:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 22:08:33] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:30:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:30:10] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:30:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:30:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:30:33] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:30:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:30:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:30:33] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:30:44] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:30:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:30:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:30:44] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:30:50] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:30:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:30:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:30:50] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message with photo sent successfully.
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:30:56] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:30:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:30:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:30:57] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ritur\\Desktop\\face\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:32:35] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:32:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:32:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:32:36] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message with photo sent successfully.
+INFO:werkzeug: * Detected change in 'C:\\Users\\ritur\\Desktop\\face\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:34:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:34:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:34:19] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:34:25] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:34:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:34:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:34:25] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message with photo sent successfully.
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:34:38] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:34:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:34:38] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:34:38] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ritur\\Desktop\\face\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:36:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:36:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:36:15] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:36:21] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:36:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:36:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:36:21] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message with photo sent successfully.
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:36:55] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:36:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:36:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:36:55] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ritur\\Desktop\\face\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:41:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:41:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:41:47] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:41:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:42:00] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:42:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:42:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:42:00] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:44:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:44:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:44:51] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:44:56] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:44:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:44:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:44:56] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 509-345-453
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:45:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:45:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:45:51] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:45:56] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:45:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:45:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:45:56] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:46:38] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:46:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:46:38] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2024 16:46:38] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:37:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:37:28] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:37:28] "GET /static/s.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:37:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:39:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:39:49] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:39:49] "GET /static/s.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:39:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:39:56] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:39:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:39:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:39:57] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:41:37] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:41:37] "GET / HTTP/1.1" 200 -
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:41:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:41:37] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ritur\\Desktop\\face\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug: * Detected change in 'C:\\Users\\ritur\\Desktop\\face\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:46:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:46:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:46:02] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:46:12] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:46:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:46:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:46:13] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:root:Message with photo sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:47:48] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:47:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:47:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 10:47:49] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:37:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:37:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:37:03] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:37:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:37:09] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:37:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:37:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:37:10] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:39:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:39:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:39:33] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:39:42] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:39:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:39:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:39:43] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:40:00] "GET /video_feed HTTP/1.1" 200 -
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:40:07] "GET /video_feed HTTP/1.1" 200 -
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:40:22] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:40:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:40:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:40:22] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:40:40] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:53:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:53:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:54:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:54:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:54:13] "[32mPOST /start HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:54:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:54:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:54:13] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:54:16] "[32mPOST /stop HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:54:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:54:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:54:30] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:55:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:55:53] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:56:15] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:56:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:58:12] "[32mPOST /start HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:58:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:58:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:58:28] "[32mPOST /stop HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:58:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:58:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:58:31] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 11:58:53] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:01:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:01:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:01:28] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:01:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:01:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:03:28] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:03:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:03:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ritur\\Desktop\\face\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:08:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:08:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:09:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:09:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:09:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:10:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:10:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:10:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ritur\\Desktop\\face\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:13:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:13:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:13:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:13:31] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:13:48] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:17:31] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:17:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:17:55] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:18:01] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:18:21] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:23:18] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:23:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:23:48] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:24:01] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:24:24] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:25:53] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:27:19] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:29:12] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:29:39] "[35m[1mGET /video_feed HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:29:40] "GET /video_feed?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:29:40] "GET /video_feed?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:29:40] "GET /video_feed?__debugger__=yes&cmd=resource&f=console.png&s=N40Lp9xF23Nj0LBKQiOT HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:29:40] "GET /video_feed?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ritur\\Desktop\\face\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:31:27] "[32mGET /video_feed HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:31:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:31:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:31:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:31:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:31:50] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:32:10] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:35:07] "[33mGET /video_feed HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:35:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:35:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:35:19] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:35:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:35:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:35:59] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:35:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:36:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:43:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:43:07] "[33mGET /static/s.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:43:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:43:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:43:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:43:10] "[33mGET /static/s.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:45:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:45:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:45:16] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:45:26] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:45:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:45:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:45:27] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:46:32] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:46:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:46:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:46:32] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ritur\\Desktop\\face\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:50:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:50:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:50:06] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:50:12] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:50:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:50:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:50:12] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:50:12] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:50:49] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:50:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:50:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:50:49] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ritur\\Desktop\\face\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:51:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:51:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:51:28] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:51:33] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:51:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:51:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:51:34] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:51:48] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:51:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:51:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:51:48] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:51:54] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:52:26] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:52:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:52:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:52:27] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:54:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:54:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:54:58] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:54:58] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:55:08] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:55:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:55:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:55:08] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:55:18] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:55:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:55:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:55:19] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:55:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:55:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:55:50] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:55:56] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:56:24] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:56:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:56:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:56:25] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:56:25] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:56:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:56:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:56:56] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:57:02] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:57:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:57:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:57:03] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:57:34] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:57:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:57:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:57:35] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:57:36] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:58:30] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:58:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:58:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 12:58:30] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:00:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:00:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:00:12] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:00:18] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:00:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:00:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:00:19] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:00:26] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:00:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:00:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:00:27] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:00:47] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:00:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:00:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:00:48] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:00:54] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:01:06] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:01:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:01:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:01:06] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:01:11] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:01:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:01:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:01:12] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:01:14] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:01:15] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:01:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:01:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:01:15] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ritur\\Desktop\\face\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:03:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:03:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:03:00] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:03:06] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:03:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:03:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:03:07] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:03:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:03:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:03:48] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:03:54] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:03:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:03:55] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:03:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:03:55] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:16] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:22] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:23] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:29] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:30] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:35] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:36] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:39] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:45] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:46] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:06:52] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:07:16] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:07:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:07:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:07:17] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ritur\\Desktop\\face\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:09:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:09:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:09:07] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:09:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:09:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:09:11] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:09:16] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:09:16] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:09:17] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:09:17] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:09:17] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=8D21XiU51eS9cdJ5LuA0 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:09:17] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:11:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:11:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:11:31] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:11:38] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:11:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:11:38] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:11:38] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+ERROR:root:Failed to capture frame.
+ERROR:root:Failed to capture frame.
+ERROR:root:Failed to capture frame.
+ERROR:root:Failed to capture frame.
+ERROR:root:Failed to capture frame.
+ERROR:root:Failed to capture frame.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:12:01] "GET /video_feed HTTP/1.1" 200 -
+ERROR:root:Failed to capture frame.
+ERROR:root:Failed to capture frame.
+ERROR:root:Failed to capture frame.
+ERROR:root:Failed to capture frame.
+ERROR:root:Failed to capture frame.
+ERROR:root:Failed to capture frame.
+ERROR:root:Failed to capture frame.
+ERROR:root:Failed to capture frame.
+ERROR:root:Failed to capture frame.
+ERROR:root:Failed to capture frame.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:12:12] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:12:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:12:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:12:13] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:15:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:15:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:15:02] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:15:08] "[32mPOST /start HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:15:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:15:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:15:08] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:15:18] "GET /video_feed HTTP/1.1" 200 -
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:15:46] "[32mPOST /stop HTTP/1.1[0m" 302 -
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:15:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:15:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:15:47] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Image sent successfully.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:17:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:17:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:17:16] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:17:22] "[32mPOST /start HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:17:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:17:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:17:23] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:17:33] "GET /video_feed HTTP/1.1" 200 -
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:18:17] "[32mPOST /stop HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:18:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:18:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:Image sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:18:18] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:19:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:19:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:19:58] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:19:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:20:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:20:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:20:02] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:20:07] "[32mPOST /start HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:20:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:20:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:20:08] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:20:17] "GET /video_feed HTTP/1.1" 200 -
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:20:34] "[32mPOST /stop HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:20:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:20:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:Image sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 13:20:36] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:52:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:52:30] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:52:30] "GET /static/s.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:52:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Surveillance started.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:52:39] "[32mPOST /start HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:52:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:52:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:52:39] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:52:43] "GET /video_feed HTTP/1.1" 200 -
+INFO:root:Surveillance stopped.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:52:55] "[32mPOST /stop HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:52:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:52:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:52:55] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:57:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:57:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:57:24] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:57:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:57:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:57:53] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Surveillance started.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:58:07] "[32mPOST /start HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:58:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:58:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:58:08] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:58:11] "GET /video_feed HTTP/1.1" 200 -
+INFO:root:Surveillance stopped.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:58:16] "[32mPOST /stop HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:58:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:58:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 20:58:17] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:01:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:01:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:01:11] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:01:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:01:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:01:14] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:01:40] "[32mPOST /start HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:01:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:01:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:01:41] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:01:44] "GET /video_feed HTTP/1.1" 200 -
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:02:43] "[32mPOST /stop HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:02:44] "GET / HTTP/1.1" 200 -
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:02:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:02:44] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:04:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:04:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:04:01] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:07:09] "[32mPOST /start HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:07:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:07:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:07:09] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:07:13] "GET /video_feed HTTP/1.1" 200 -
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:07:20] "[32mPOST /stop HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:07:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:07:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:07:21] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Image sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:08:57] "[32mPOST /start HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:08:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:08:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:08:58] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:09:02] "GET /video_feed HTTP/1.1" 200 -
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:09:17] "[32mPOST /stop HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:09:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:09:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:09:18] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:22:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:22:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:22:31] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:22:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:22:38] "[32mPOST /start HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:22:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:22:38] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:22:38] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:22:45] "GET /video_feed HTTP/1.1" 200 -
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:23:15] "[32mPOST /stop HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:23:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:23:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:23:16] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Image sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:23:23] "[32mPOST /start HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:23:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:23:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:23:24] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:23:26] "[32mPOST /stop HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:23:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:23:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:23:27] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Image sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:23:28] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:24:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:24:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:24:02] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:24:07] "[32mPOST /start HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:24:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:24:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:24:07] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:24:11] "[32mPOST /stop HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:24:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:24:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:24:12] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:24:14] "GET /video_feed HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 774-611-435
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:26:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:26:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:26:42] "[32mPOST /start HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:26:42] "GET / HTTP/1.1" 200 -
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:26:48] "GET /video_feed HTTP/1.1" 200 -
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:26:56] "[32mPOST /stop HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:26:56] "GET / HTTP/1.1" 200 -
+INFO:root:Image sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:28:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:28:09] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:28:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:28:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:28:36] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:30:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:30:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:30:05] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:30:11] "[32mPOST /start HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:30:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:30:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:30:12] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:30:16] "GET /video_feed HTTP/1.1" 200 -
+INFO:root:Message sent successfully.
+INFO:root:Image sent successfully.
+INFO:root:Message sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:30:23] "[32mPOST /stop HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:30:24] "GET / HTTP/1.1" 200 -
+INFO:root:Image sent successfully.
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:30:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Oct/2024 21:30:25] "[36mGET /static/s.png HTTP/1.1[0m" 304 -
